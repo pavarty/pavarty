@@ -34,12 +34,4 @@
 
 ---
 
-## 📬 Reach Out
-
-- Twitter:  
-- Email: 
-- Blog: *Coming soon*
-
----
-
 > "Don’t wait for permission to learn. The gatekeepers are gone."
