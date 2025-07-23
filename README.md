@@ -6,8 +6,8 @@
 ## 👨‍💻 About Me
 
 - 🔭 Currently focused on:  
-  - 🔐 Cybersecurity and Linux  
-  - 📚 Free, open learning for low-income communities  
+  - Cybersecurity and Linux  
+  - Free, open learning for low-income communities  
 
 - 🌍 Core Values:  
   - Tech for liberation, not control  
@@ -27,18 +27,18 @@
 
 ## 🧪 Learning in Public
 
-- 📂 Free certification paths via YouTube  
-- 🧰 Linux cybersecurity commands  
-- 🔗 TryHackMe progress  
-- 💸 Personal finance for people making under $30KUSD/year  
+- Free certification paths via YouTube  
+- Linux cybersecurity commands  
+- TryHackMe progress  
+- Personal finance for people making under $30KUSD/year  
 
 ---
 
 ## 📬 Reach Out
 
-- 📩 Twitter:  
-- 📧 Email: 
-- 🌍 Blog: *Coming soon*
+- Twitter:  
+- Email: 
+- Blog: *Coming soon*
 
 ---
 
