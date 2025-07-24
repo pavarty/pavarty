@@ -1,7 +1,3 @@
-### Hi 👋
-
-<br>
-
 **`Strategic Systems Architect`**
 > "Don’t wait for permission to learn. The gatekeepers are gone."
 
