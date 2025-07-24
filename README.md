@@ -14,7 +14,7 @@ A *curious mind* trying to fix *the world*, one wild idea at a time.<br>
 Studying to be a [Chief Systems Architect](https://en.wikipedia.org/wiki/Systems_architect).
 
 I’m [Procrastiworking](https://jessicahische.shop/products/procrastiworking-print).<br>
-Building [Ink & Hash](bit.ly/Inkandhash)<br>
+Building [Ink & Hash](https://nogoodbillie.notion.site/20f9c5918ada80529488f97f152e5425)<br>
 <br>
 
 - 🔭 Currently focused on:<br>
