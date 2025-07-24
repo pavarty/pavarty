@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I'm Billy 👋</h1>
+<h1>Hi, I'm Billy 👋</h1>
 > "Don’t wait for permission to learn. The gatekeepers are gone."
 
----
+
 
 ## 👨‍💻 About Me
-
+<p>Self-Taught, CybSec & Systems Thinking.</p>
 - 🔭 Currently focused on:  
   - Cybersecurity and Linux  
   - Free, open learning for low-income communities  
@@ -14,7 +14,6 @@
   - Privacy is a human right  
   - Everyone deserves access to skills that pay
 
----
 
 ## 🛠️ Tools I Use
 
@@ -23,7 +22,7 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=red)
 
----
+
 
 ## 🧪 Learning in Public
 
