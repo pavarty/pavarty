@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Billy 👋</h1>
-<p align="center">Self-Taught, CybSec & Systems Thinking</p>
+> "Don’t wait for permission to learn. The gatekeepers are gone."
 
 ---
 
@@ -32,6 +32,3 @@
 - TryHackMe progress  
 - Personal finance for people making under $30KUSD/year  
 
----
-
-> "Don’t wait for permission to learn. The gatekeepers are gone."
