@@ -15,6 +15,7 @@ Building [Ink & Hash](https://nogoodbillie.notion.site/20f9c5918ada80529488f97f1
 
 - 🔭 Currently focused on:<br>
   - Cybersecurity and Linux
+  - Building in Public
   - Resource-Based Systems
   - Systems Thinking
   - Global Ecosystem Salvation
