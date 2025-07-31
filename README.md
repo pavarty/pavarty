@@ -35,3 +35,5 @@ Building [Ink & Hash](https://nogoodbillie.notion.site/20f9c5918ada80529488f97f1
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=red)
+
+> "De oppresso liber."
