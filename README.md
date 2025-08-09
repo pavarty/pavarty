@@ -21,6 +21,8 @@ Building [Ink & Hash](https://nogoodbillie.notion.site/20f9c5918ada80529488f97f1
   - Resource-Based Systems
   - Systems Thinking
   - Global Ecosystem Salvation
+  - Global Salvation of the Inhabitants of Earth
+  - Global Unity
   - Free, open learning for low-income communities
 
 <br>
@@ -29,6 +31,10 @@ Building [Ink & Hash](https://nogoodbillie.notion.site/20f9c5918ada80529488f97f1
   - Tech for liberation, not control
   - Privacy is a human right
   - Everyone deserves access to skills that pay
+  - Everyone has a right to exist
+  - Everyone has a right to live
+  - Everyone has rights
+  - Everyone is free
 
 <br>
 
