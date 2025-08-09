@@ -1,7 +1,7 @@
 -.. .    --- .--. .-. . ... ... ---    .-.. .. -... . .-. 
 
 **`Strategic Systems Architect`**
-> "Don’t wait for permission to learn. The gatekeepers are gone. Don't wait for permission to live, there are No Kings."
+> "Don’t wait for permission to learn. The gatekeepers are gone. Don't wait for permission to live. There are No Kings."
 
 ![](https://komarev.com/ghpvc/?username=pavarty&label=VISITORS&color=E1AD0E&style=for-the-badge)
  [![Followers](https://custom-icon-badges.demolab.com/github/followers/pavarty?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)](https://github.com/pavarty?tab=followers)
