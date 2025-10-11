@@ -12,37 +12,3 @@ A *curious mind* trying to fix *the world*, one wild idea at a time.<br>
 Studying to be a [Chief Systems Architect](https://en.wikipedia.org/wiki/Systems_architect).
 
 I’m [Procrastiworking](https://jessicahische.shop/products/procrastiworking-print).<br>
-Building [Ink & Hash](https://nogoodbillie.notion.site/20f9c5918ada80529488f97f152e5425)<br>
-<br>
-
-- 🔭 Currently focused on:<br>
-  - Cybersecurity and Linux
-  - Building in Public
-  - Resource-Based Systems
-  - Systems Thinking
-  - Global Ecosystem Salvation
-  - Global Salvation of the Inhabitants of Earth
-  - Global Unity
-  - Free, open learning for low-income communities
-
-<br>
-
-- 🌍 Core Values:
-  - Tech for liberation, not control
-  - Privacy is a human right
-  - Everyone deserves access to skills that pay
-  - Everyone has a right to exist
-  - Everyone has a right to live
-  - Everyone has rights
-  - Everyone is free
-
-<br>
-
-### 🛠️ Tools I Use <br>
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=red)
-
-                                                                                                                             
--.. .    --- .--. .-. . ... ... ---    .-.. .. -... . .-.                                                                            
