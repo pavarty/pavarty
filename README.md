@@ -12,3 +12,7 @@ A *curious mind* trying to fix *the world*, one wild idea at a time.<br>
 Studying to be a [Chief Systems Architect](https://en.wikipedia.org/wiki/Systems_architect).
 
 I’m [Procrastiworking](https://jessicahische.shop/products/procrastiworking-print).<br>
+
+[![](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O71GBQ09)
+
+</div>
