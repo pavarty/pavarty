@@ -13,7 +13,7 @@ Games:10pm-2am
 <br>
 
 #### Currently:
-- ⚙️ I am learning: `linux`, `.py`, `.js`, `bash`, `.go`, `.rust`, `.f`, `.sol`
+- ⚙️ I am learning: `linux`, `.py`, `.js`, `.go`, `.rust`, `.f`, `.sol`
 - 💬 `write` me about **privacy**, **philosophy**, **420**, **preparedness**, **coffee**,  or **movies.**
 <br>
 <br>
