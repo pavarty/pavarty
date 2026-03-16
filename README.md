@@ -2,13 +2,14 @@
 
 ### A Daydreamer learning to code.
 
-Studying to be a Systems Architect.
-
-I write about Survival & Preparedness [here.](https://pavarty.substack.com)
+Studying to be a Systems Architect.<br>
+[Procrastiworking until I die](https://jessicahische.shop/products/procrastiworking-print).<br>
+Write about Survival & Preparedness [here.](https://pavarty.substack.com)
 <br>
-Live on [Twitch](https://www.twitch.tv/pavartyonair) sometimes @ 10pm
+Live on [Twitch](https://www.twitch.tv/pavartyonair)<br>
+Co-Working: 10am-4pm
+Games:10pm-2am
 <br>
-I’m [Procrastiworking](https://jessicahische.shop/products/procrastiworking-print).<br>
 
 - ⚙️ I am learning: `Linux`, `.py`, `.js`, `bash`, `.go`, `.rust`, `.f`, `.sol`
 - 💬 `write` me about **privacy**, **philosophy**, **420**, **preparedness**, **coffee**,  or **movies.**
