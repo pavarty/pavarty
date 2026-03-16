@@ -9,7 +9,7 @@ Co-Working: 10am-4pm <br>
 Games:10pm-2am
 <br>
 
-- ⚙️ I am learning: `Linux`, `.py`, `.js`, `bash`, `.go`, `.rust`, `.f`, `.sol`
+- ⚙️ I am learning: `linux`, `.py`, `.js`, `bash`, `.go`, `.rust`, `.f`, `.sol`
 - 💬 `write` me about **privacy**, **philosophy**, **420**, **preparedness**, **coffee**,  or **movies.**
 
 ![](https://komarev.com/ghpvc/?username=pavarty&label=VISITORS&color=E1AD0E&style=for-the-badge)
