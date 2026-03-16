@@ -6,7 +6,7 @@ I write about Survival & Preparedness [here.](https://pavarty.substack.com)
 <br>
 I’m [Procrastiworking](https://jessicahische.shop/products/procrastiworking-print).<br>
 
-- ⚙️ I am learning: `.py`, `.js`, `bash`, `.go`, `.rust`, `.f`, `.sol`
+- ⚙️ I am learning: `Linux`, `.py`, `.js`, `bash`, `.go`, `.rust`, `.f`, `.sol`
 - 💬 `write` me about **privacy**, **philosophy**, **420**, **preparedness**, **coffee**,  or **movies.**
 
 ![](https://komarev.com/ghpvc/?username=pavarty&label=VISITORS&color=E1AD0E&style=for-the-badge)
