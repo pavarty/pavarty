@@ -1,7 +1,7 @@
 #### A Daydreamer learning to code.
 
-Studying to be a Systems Architect.<br>
-[Procrastiworking until I die](https://jessicahische.shop/products/procrastiworking-print).<br>
+Studying to be a Systems Architect.<br><br>
+[Procrastiworking until I die](https://jessicahische.shop/products/procrastiworking-print).<br><br>
 Write about Survival & Preparedness [here.](https://pavarty.substack.com)
 <br>
 Live on [Twitch](https://www.twitch.tv/pavartyonair)<br>
