@@ -1,6 +1,4 @@
-##Words and ideas can change the world. 
-
-### A Daydreamer learning to code.
+#### A Daydreamer learning to code.
 
 Studying to be a Systems Architect.<br>
 [Procrastiworking until I die](https://jessicahische.shop/products/procrastiworking-print).<br>
