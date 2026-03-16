@@ -5,7 +5,7 @@ Studying to be a Systems Architect.<br>
 Write about Survival & Preparedness [here.](https://pavarty.substack.com)
 <br>
 Live on [Twitch](https://www.twitch.tv/pavartyonair)<br>
-Co-Working: 10am-4pm
+Co-Working: 10am-4pm <br>
 Games:10pm-2am
 <br>
 
