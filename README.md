@@ -1,8 +1,12 @@
+##Words and ideas can change the world. 
+
 ### A Daydreamer learning to code.
 
 Studying to be a Systems Architect.
 
 I write about Survival & Preparedness [here.](https://pavarty.substack.com)
+<br>
+Live on [Twitch](https://www.twitch.tv/pavartyonair) sometimes @ 10pm
 <br>
 I’m [Procrastiworking](https://jessicahische.shop/products/procrastiworking-print).<br>
 
