@@ -5,7 +5,7 @@ Studying to be a Systems Architect.<br>
 #### *If you are a man, then do with a "Don".*
 [Procrastiworking until I die](https://jessicahische.shop/products/procrastiworking-print).<br>
 Write about Thought & Preparedness [here.](https://pavarty.substack.com)
-<br>
+<br><br>
 Live on [Twitch](https://www.twitch.tv/pavartyonair)<br>
 Monday through Friday<br>
 Co-Working: 10am-4pm <br>
