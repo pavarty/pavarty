@@ -1,9 +1,10 @@
-#### A Daydreamer learning to code.
 
-Studying to be a Systems Architect.<br><br>
-[Procrastiworking until I die](https://jessicahische.shop/products/procrastiworking-print).<br>
-Write about Survival & Preparedness [here.](https://pavarty.substack.com)
+<img src="https://media1.tenor.com/m/lG5P4MGc-2oAAAAd/one-piece-kuma.gif" width="100%" align="center" /><br>
 <br>
+Studying to be a Systems Architect.<br>
+#### *If you are a man, then do with a "Don".*
+[Procrastiworking until I die](https://jessicahische.shop/products/procrastiworking-print).<br>
+Write about Thought & Preparedness [here.](https://pavarty.substack.com)
 <br>
 Live on [Twitch](https://www.twitch.tv/pavartyonair)<br>
 Monday through Friday<br>
@@ -13,8 +14,8 @@ Games:10pm-2am
 <br>
 
 #### Currently:
-- ⚙️ I am learning: `linux`, `.py`, `.js`, `.go`, `.rust`, `.f`, `.sol`
-- 💬 `write` me about **privacy**, **philosophy**, **420**, **preparedness**, **coffee**,  or **movies.**
+- 💻 I am learning: `linux`, `.py`, `.js`, `.go`, `.rust`, `.f`, `.sol`
+- 📖 `write` me about **privacy**, **philosophy**, **420**, **preparedness**, **coffee**,  or **movies.**
 <br>
 <br>
 
@@ -23,5 +24,7 @@ Games:10pm-2am
 [![Total Stars](https://custom-icon-badges.demolab.com/github/stars/pavarty?color=55960c&style=for-the-badge&labelColor=488207&logo=star)](https://github.com/pavarty?tab=repositories&sort=stargazers)
 
 [![](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O71GBQ09)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+
 
 </div>
