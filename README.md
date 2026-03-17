@@ -6,7 +6,7 @@ Studying to be a Systems Architect.<br>
 [Procrastiworking until I die](https://jessicahische.shop/products/procrastiworking-print).<br>
 Write about Thought & Preparedness [here.](https://pavarty.substack.com)
 <br><br>
-Live on [Twitch](https://www.twitch.tv/pavartyonair)<br>
+(Sometimes)Live on [Twitch](https://www.twitch.tv/pavartyonair)<br>
 Monday through Friday<br>
 Co-Working: 10am-4pm <br>
 Games:10pm-2am
