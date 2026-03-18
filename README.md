@@ -1,21 +1,29 @@
 
 <img src="https://i.pinimg.com/originals/94/14/59/941459a4d50222257145dcca56300137.gif" width="100%" align="center" /><br>
 <br>
-Studying to be a Systems Architect.<br>
-#### *If you are a man, then do with a "DON!"*
+#### *If you are a man, then do with a `"DON!"`*
+Self-studying to be a `Systems Architect.`<br>
 [Procrastiworking until I die](https://jessicahische.shop/products/procrastiworking-print).<br>
-Write about Thought & Preparedness [here.](https://pavarty.substack.com)
-<br><br>
-(Sometimes)Live on [Twitch](https://www.twitch.tv/pavartyonair)<br>
+
+<br>
+(`Sometimes`)Live on [Twitch](https://www.twitch.tv/pavartyonair)<br>
 Monday through Friday<br>
 Co-Working: 10am-4pm <br>
-Games:10pm-2am
-<br>
-<br>
+Games: 10pm-2am
 
 #### Currently:
-- 💻 I am learning: `linux`, `.py`, `.js`, `.go`, `.rust`, `.f`, `.sol`
-- 📖 `write` me about **philosophy**, **preparedness**, **coffee**,  or **movies.**
+- 💻 I am learning: `linux`, `.py`, `.js`, `.go`, `.rust`, `.f`, `.sol`, `cybsec`
+- 📖 Write about `Thought & Preparedness` [here.](https://pavarty.substack.com)
+- 🚛 Migrating `completely` to Linux
+<br>
+
+#### Formerly:
+- Freelance Graphic Designer (shut up, I know.)
+- Countertop Installer (was actually fun)
+- Cook @ random divebar
+- Inventory / Sales Manager @ [Autozone](https://www.autozone.com/)
+- Host/Cook @ [Waffle House](https://www.wafflehouse.com/)
+
 <br>
 <br>
 
