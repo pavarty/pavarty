@@ -1,7 +1,7 @@
 
 <img src="https://i.pinimg.com/originals/94/14/59/941459a4d50222257145dcca56300137.gif" width="100%" align="center" /><br>
 <br>
-#### *If you are a man, then do with a `"DON!"`*
+#### *If you are a man, do with a `"DON!"`*
 Self-studying to be a `Systems Architect.`<br>
 [Procrastiworking until I die](https://jessicahische.shop/products/procrastiworking-print).<br>
 
