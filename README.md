@@ -25,7 +25,7 @@ Games: 10pm-2am
 - Countertop Installer (was actually fun)
 - Cook @ random divebar
 - Inventory / Sales Manager @ [Autozone](https://www.autozone.com/)
-- Host/Cook @ [Waffle House](https://www.wafflehouse.com/)
+- Host/Cook @ [Waffle House](https://www.wafflehouse.com/) (yes.)
 
 <br>
 <br>
