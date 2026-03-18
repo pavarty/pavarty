@@ -7,7 +7,8 @@ Self-studying to be a `Systems Architect.`<br>
 
 <br>
 
-*Sometimes* Live on [Twitch](https://www.twitch.tv/pavartyonair)<br>
+[![Twitch](https://img.shields.io/badge/Twitch-Live-red?logo=twitch)](https://www.twitch.tv/pavartyonair) *Sometimes*
+<br>
 Monday through Friday<br>
 Co-Working: 10am-4pm <br>
 Games: 10pm-2am
