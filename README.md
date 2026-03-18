@@ -2,7 +2,7 @@
 <img src="https://i.pinimg.com/originals/94/14/59/941459a4d50222257145dcca56300137.gif" width="100%" align="center" /><br>
 <br>
 Studying to be a Systems Architect.<br>
-#### *If you are a man, then do with a "Don".*
+#### *If you are a man, then do with a "DON!"*
 [Procrastiworking until I die](https://jessicahische.shop/products/procrastiworking-print).<br>
 Write about Thought & Preparedness [here.](https://pavarty.substack.com)
 <br><br>
