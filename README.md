@@ -15,7 +15,7 @@ Games:10pm-2am
 
 #### Currently:
 - 💻 I am learning: `linux`, `.py`, `.js`, `.go`, `.rust`, `.f`, `.sol`
-- 📖 `write` me about **privacy**, **philosophy**, **420**, **preparedness**, **coffee**,  or **movies.**
+- 📖 `write` me about **philosophy**, **preparedness**, **coffee**,  or **movies.**
 <br>
 <br>
 
