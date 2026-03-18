@@ -37,5 +37,4 @@ Games: 10pm-2am
 [![Total Stars](https://custom-icon-badges.demolab.com/github/stars/pavarty?color=55960c&style=for-the-badge&labelColor=488207&logo=star)](https://github.com/pavarty?tab=repositories&sort=stargazers)
 
 [![](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O71GBQ09)
-
 </div>
