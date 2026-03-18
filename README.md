@@ -1,5 +1,5 @@
 
-<img src="https://64.media.tumblr.com/9a471b6586dee3bc66d502e26bfd4140/tumblr_ngfgkaTdZl1tlm2fuo1_500.gif" width="100%" align="center" /><br>
+<img src="https://i.pinimg.com/originals/94/14/59/941459a4d50222257145dcca56300137.gif" width="100%" align="center" /><br>
 <br>
 Studying to be a Systems Architect.<br>
 #### *If you are a man, then do with a "Don".*
