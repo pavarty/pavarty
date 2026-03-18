@@ -6,10 +6,12 @@ Self-studying to be a `Systems Architect.`<br>
 [Procrastiworking until I die](https://jessicahische.shop/products/procrastiworking-print).<br>
 
 <br>
-(`Sometimes`)Live on [Twitch](https://www.twitch.tv/pavartyonair)<br>
+
+*Sometimes* Live on [Twitch](https://www.twitch.tv/pavartyonair)<br>
 Monday through Friday<br>
 Co-Working: 10am-4pm <br>
 Games: 10pm-2am
+
 
 #### Currently:
 - 💻 I am learning: `linux`, `.py`, `.js`, `.go`, `.rust`, `.f`, `.sol`, `cybsec`
