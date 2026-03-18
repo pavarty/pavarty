@@ -4,6 +4,7 @@
 # *If you are a man, do with a `"DON!"`*
 Self-studying to be a `Systems Architect.`<br>
 [Procrastiworking until I die](https://jessicahische.shop/products/procrastiworking-print).<br>
+I build things that don’t always fit in neat boxes — tools, ideas, experiments meant to push privacy, autonomy, human rights & creativity forward.
 
 <br>
 
