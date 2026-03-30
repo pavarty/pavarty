@@ -3,10 +3,8 @@
 <br>
 # *If you are a man, do it with a `"DON!"`*
 Self-studying to be a `Systems Architect.`<br>
+I build things that don’t always fit in neat boxes, sorry.<br>
 [Procrastiworking until I die](https://jessicahische.shop/products/procrastiworking-print).<br>
-<br>
-I build things that don’t always fit in neat boxes — tools, ideas, experiments meant to push privacy, autonomy, human rights & creativity forward.
-
 <br>
 
 [![Twitch](https://img.shields.io/badge/Twitch-Live-red?logo=twitch)](https://www.twitch.tv/pavartyonair) *Sometimes*
