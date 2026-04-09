@@ -2,7 +2,7 @@
 <img src="https://i.pinimg.com/originals/94/14/59/941459a4d50222257145dcca56300137.gif" width="100%" align="center" /><br>
 <br>
 # *If you are a man, do it with a `"DON!"`*
-According to Richard Feynam, I am a Scientist.<br>
+According to Richard Feynman, I am a Scientist.<br>
 However, I am self-studying to be a `Systems Architect.`<br>
 I build things that don’t always fit in neat boxes, sorry.<br>
 [Procrastiworking until I die](https://jessicahische.shop/products/procrastiworking-print).<br>
