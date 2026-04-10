@@ -16,9 +16,9 @@ Games: 10pm-2am
 
 
 #### Currently:
-- 💻 I am learning: `linux sysadmin`, `.py`, `.js`, `.go`, `.rust`, `.f`, `.sol`, `cybsec`
+- 💻 I am learning in this order: `.py`, `.js`, `linux sysadmin`, `.go`, `.sol`, `.rust`, `.f`, `.cbl`, `cybsec`
 - 📖 Write about `Thought & Preparedness` [here.](https://pavarty.substack.com)
-- 🚛 Migrating `completely` to Linux
+- 🚛 Migrating `completely` to Linux as I learn things.
 <br>
 
 #### Formerly:
