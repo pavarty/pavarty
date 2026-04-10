@@ -16,7 +16,7 @@ Games: 10pm-2am
 
 
 #### Currently:
-- 💻 I am learning in this order: `.py`, `.js`, `linux sysadmin`, `.go`, `.sol`, `.rust`, `.f`, `.cbl`, `cybsec`
+- 💻 I am learning in this order: `.py`, `.js`, `linux sysadmin`, `.go`, `.sol`, `.rust`, `.f`, `.cbl`, `cybsec` / otherwise known as: `Modernization & Integration`- A Systems Engineering, Cybersecurity, and Fintech Triple-Major with a minor in History of Computing self-learning course made with the help of "AI".
 - 📖 Write about `Thought & Preparedness` [here.](https://pavarty.substack.com)
 - 🚛 Migrating `completely` to Linux as I learn things.
 <br>
