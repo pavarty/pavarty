@@ -8,7 +8,7 @@ I build things that don’t always fit in neat boxes, sorry.<br>
 [Procrastiworking until I die](https://jessicahische.shop/products/procrastiworking-print).<br>
 <br>
 
-[![Twitch](https://img.shields.io/badge/Twitch-Live-red?logo=twitch)](https://www.twitch.tv/pavartyonair) *Sometimes*
+[![Twitch](https://img.shields.io/badge/Twitch-Live-red?logo=twitch)](https://www.twitch.tv/pavartyonair) 
 <br>
 Monday through Friday<br>
 Co-Working: 10am-4pm <br>
@@ -16,7 +16,7 @@ Games: 10pm-2am
 
 
 #### Currently:
-- 💻 I am learning in this order: `.py`, `.js`, `linux sysadmin`, `.go`, `.sol`, `.rust`, `.f`, `.cbl`, `cybsec` / otherwise known as: `Modernization & Integration`- A Systems Engineering, Cybersecurity, and Fintech Triple-Major with a minor in History of Computing self-learning course made with the help of "AI".
+- 💻 I am pursuing a Systems Engineering, Cybersecurity, and Fintech Triple-Major with a minor in History of Computing self-learning course made with the help of "AI" -- Claude, Copilot, and 6 other agents.
 - 📖 Write about `Thought & Preparedness` [here.](https://pavarty.substack.com)
 - 🚛 Migrating `completely` to Linux as I learn things.
 <br>
