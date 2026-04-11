@@ -16,7 +16,7 @@ Games: 10pm-2am
 
 
 #### Currently:
-- 💻 I am pursuing a Systems Engineering, Cybersecurity, and Fintech Triple-Major with a minor in History of Computing self-learning course made with the help of "AI" -- Claude, Copilot, and 6 other agents.
+- 💻 I am pursuing a Systems Engineering, Cybersecurity, and Fintech Triple-Major with a minor in History of Computing, focusing on: `linuxsysadmin` , `.py `, `js`. `.go`, `.rust`, `fortran`, `C`, `.cbl`, `.sol`, `cybsec`
 - 📖 Write about `Thought & Preparedness` [here.](https://pavarty.substack.com)
 - 🚛 Migrating `completely` to Linux as I learn things.
 <br>
