@@ -29,27 +29,26 @@
 <br>
 
 A fool learning to ask better questions and solve bigger problems.<br>
-[Procrastiworking until I die](https://jessicahische.shop/products/procrastiworking-print).<br>
+[Procrastiworking, one day at a time](https://jessicahische.shop/products/procrastiworking-print).<br>
 <br>
 
 [![Twitch](https://img.shields.io/badge/Twitch-Live-red?logo=twitch)](https://www.twitch.tv/pavartyonair) 
 <br>
-Monday through Friday<br>
-Co-Working: 10am-4pm <br>
+Mon–Fri:<br>
+Co-working 10am–4pm.<br>
 
 
 #### Currently:
-- 💻 I am pursuing a Special Role. One requiring intense study.
-- 💻 Learning: `.py `, `js`. `.go`, `.rust`, `fortran`, `C/C++`, `.cbl`, `.sol`.
-- 📖 Write about `Politics, Life, Thought & Preparedness` [here.](https://pavarty.substack.com)
+- 🌍 Training to design systems for the entire planet. 
+- 🧠 Self-taught, currently learning: `.py`, `js`, `go`, `rust`, `fortran`, `C/C++`, `.cbl`, and `.sol` — from legacy mainframes to smart contracts.
+- 📖 Writing about `Politics`, `Life`, `Thought & Preparedness` at [here.](https://pavarty.substack.com)
 <br>
 
 #### Formerly:
-- Freelance Graphic Designer (shut up, I know.)
-- Countertop Installer (was actually fun)
-- Cook @ random divebar
-- Inventory / Sales Manager @ [Autozone](https://www.autozone.com/)
-- Host/Cook @ [Waffle House](https://www.wafflehouse.com/) (yes.)
+- Graphic Designer
+- Countertop Installer
+- Cook/Host @ random divebar /  [Waffle House](https://www.wafflehouse.com/)
+- Inventory Manager @ [Autozone](https://www.autozone.com/)
 
 <br>
 <br>
