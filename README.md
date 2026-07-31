@@ -1,10 +1,34 @@
 
-<img src="https://i.pinimg.com/originals/94/14/59/941459a4d50222257145dcca56300137.gif" width="100%" align="center" /><br>
+```
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣶⣶⠿⠿⠿⣶⣦⣀⠀⠀⠀  ⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡾⠛⠉⠀⠀⠀⠀⠀⠀⠉⠻⣧⡀⠀ 
+⢠⣄⣀⣀⣀⣀⣀⣀⣀⣴⠋⠀⠀⠀⠀⠀⣴⣆⠀⠀⠀⠀⠘⣿⡀
+⠀⠙⠻⣿⣟⠛⠛⠛⠋⠁⠀⠀⠀⠀⠀⠘⠿⠋⠀⠀⠀⠀⠀⣿⡇
+⠀⠀⠀⠀⠙⢷⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⡇              You're gonna carry that weight...
+⠀⠀⠀⠀⠀⠀⠘⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣽⠃                   See you, Space Cowboy...
+⠀⠀⠀⠀⠀⠀⢰⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀
+⠀⠀⠀⠀⠀⠀⣾⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⡿⠀
+⠀⠀⠀⠀⠀⢸⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⠃⠀
+⠀⠀⠀⠀⢀⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡟⠀⠀
+⠀⠀⠀⠀⣾⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠇⠀⠀
+⠀⠶⣶⣶⣶⠶⠰⣶⣶⣶⡶⠀⠀⢶⡶⠆⠀⠀⢰⣆⠀⠀⠀⠀⢶⣶⣶⣦⡀⠀⠀⠴⣦⣶⢶⣤⣶⣤⣤⣤⣴⣶⣴⡶⣶⣤⣤⣴⠦⢶⣤⡄⠴⣦⣤⣤⡤⣤⣤⣤⡀⠀⠀
+⠀⠀⢹⣿⣿⡆⠀⠘⣿⣿⣧⠀⠀⣼⠁⠀⠀⢰⣿⣿⡆⠀⠀⠀⠀⢹⣿⣿⣿⡀⠀⠀⢿⠇⢸⠋⠀⢸⣿⣿⡇⠀⢹⡇⢸⣿⣿⡇⠀⠀⢹⡇⠀⣿⣿⣿⠀⠈⢿⣿⣿⡄⠀
+⠀⠀⠘⣿⣿⣷⠀⣼⣿⣿⣿⡀⢠⡟⠀⠀⠀⣼⣿⣿⣧⠀⠀⠀⠀⣼⠹⣿⣿⣿⡄⠀⢹⠀⠈⠁⠀⢸⣿⣿⡇⠀⠀⠀⢸⣿⣿⡇⢀⡇⠈⠁⠀⢸⣿⣿⠀⠀⢸⣿⣿⣿⡀
+⠀⠀⠀⢹⣿⣿⡄⣿⢸⣿⣿⣧⣾⠁⠀⠀⢰⡟⢹⣿⣿⡇⠀⠀⠀⣿⠀⠘⣿⣿⣿⣄⢸⠀⠀⠀⠀⢸⣿⣿⡇⠀⠀⠀⢸⣿⣿⣧⣼⡇⠀⠀⠀⣸⣿⣿⠀⠀⢸⣿⣿⣿⡇
+⠀⠀⠀⠘⣿⣿⣿⡇⠀⣿⣿⣿⡏⠀⠀⠀⣸⣧⣤⣿⣿⣿⡀⠀⠀⣿⠀⠀⠈⢿⣿⣿⣼⠀⠀⠀⠀⢸⣿⣿⡇⠀⠀⠀⢸⣿⣿⡇⠸⡇⠀⠀⠀⣿⣿⣿⠀⠀⢸⣿⣿⣿⠃
+⠀⠀⠀⠀⢻⣿⣿⠀⠀⢹⣿⣿⠁⠀⠀⢠⡏⠀⠈⠹⣿⣿⣇⠀⠀⣿⠀⠀⠀⠈⢿⣿⣿⠀⠀⠀⠀⢸⣿⣿⡇⠀⠀⠀⢸⣿⣿⡇⠀⠃⠀⣾⠀⣿⣿⣿⠀⠀⢸⣿⣿⡏⠀
+⠀⠀⠀⠀⠘⣿⡏⠀⠀⠈⣿⡏   ἐρωτηθεὶς πόθεν εἴη, "κοσμοπολίτης," ἔφη. // "I am a citizen of the world."
+ ⣰⣶⠀⢹⡟⣻⡇⢹⢋⡙⠀⢨⣯⠀⠙⡟⢹⡆⠀⢰⡟⠉⣧⢸⣏⢹⡆⠀⠀⣸⡄⠀⢹⠋⠀⢸⡏⠈⣯⢀⠏⣻⣏⣟⠀⣷⢶⠀⠀
+ ⢻⡟⠀⣸⢧⣽⠏⢸⣏⣡⢴⠛⠺⢆⣠⣇⡼⠇⠀⠘⢆⣠⠟⢸⣿⠻⢄⠀⠰⠓⠻⡄⠸⡀⡠⢠⣧⠀⠸⡟⠀⣸⣏⣳⠌⢻⡜⠀⠀
+  ⡼⠀⢤⣿⣿⡀⢠⢖⣲⠀⠀⣴⢲⣀⡴⠲⣀⡴⣲⡀⠀⣠⠒⣆⢰⠒⣆⣠⠒⣆⠀⢠⠟⢧⣀⠞⢢⣠⠞⢲⠀⠀⠀⠈⢣⡀⠀⠀
+⢰⠃⢠⣼⣿⣯⡗⢠⣈⣹⢀⡀⢧⣠⠋⢧⣠⠏⢧⣦⠇⣄⠱⣄⡜⠹⣀⠾⠹⣀⡼⢄⠘⣄⡼⠛⣄⡼⠻⣄⡼⠃⠀⠀⢀⣼⡇⠀⠀
+
+
+```
 <br>
-# *If you are a man, do it with a `"DON!"`*
-According to Richard Feynman, I am a `Scientist.`<br>
-However, I am self-studying to be a `Systems Architect.`<br>
-I build things that don’t always fit in neat boxes, sorry.<br>
+<br>
+
+A fool learning to ask better questions and solve bigger problems.<br>
 [Procrastiworking until I die](https://jessicahische.shop/products/procrastiworking-print).<br>
 <br>
 
@@ -12,14 +36,12 @@ I build things that don’t always fit in neat boxes, sorry.<br>
 <br>
 Monday through Friday<br>
 Co-Working: 10am-4pm <br>
-Games: 10pm-2am
 
 
 #### Currently:
-- 💻 I am pursuing a Systems Engineering, Cybersecurity, and Fintech Triple-Major with a minor in History of Computing.
-- 💻 Learning: `.py `, `js`. `.go`, `.rust`, `fortran`, `C`, `.cbl`, `.sol`.
-- 📖 Write about `Thought & Preparedness` [here.](https://pavarty.substack.com)
-- 🚛 Migrating `completely` to Linux as I learn things.
+- 💻 I am pursuing a Special Role. One requiring intense study.
+- 💻 Learning: `.py `, `js`. `.go`, `.rust`, `fortran`, `C/C++`, `.cbl`, `.sol`.
+- 📖 Write about `Politics, Life, Thought & Preparedness` [here.](https://pavarty.substack.com)
 <br>
 
 #### Formerly:
